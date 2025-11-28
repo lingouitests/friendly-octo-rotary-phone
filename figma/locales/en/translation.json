@@ -11,5 +11,7 @@
     "node_id.148:11": "next",
     "node_id.171:3": "HALLOWEEN",
     "node_id.144:2": "sunday",
-    "node_id.203:6": "trigger"
+    "node_id.203:6": "trigger",
+    "node_id.148:8": "and",
+    "node_id.148:9": "or"
 }
