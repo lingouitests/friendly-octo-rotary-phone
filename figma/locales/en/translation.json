@@ -6,12 +6,15 @@
     "node_id.266:2": "sheep",
     "node_id.266:3": "giraffe",
     "node_id.266:4": "elephant",
-    "node_id.125:3": "monday",
     "node_id.126:4": "tuesday",
     "node_id.148:11": "next",
     "node_id.171:3": "HALLOWEEN",
     "node_id.144:2": "sunday",
     "node_id.203:6": "trigger",
     "node_id.148:8": "and",
-    "node_id.148:9": "or"
+    "node_id.148:9": "or",
+    "node_id.125:3": "monday",
+    "node_id.201:2": "check 0411",
+    "node_id.201:4": "send all 123",
+    "node_id.205:11": "cat"
 }
