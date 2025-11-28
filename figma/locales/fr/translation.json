@@ -4,10 +4,13 @@
   "node_id.205:10": "ours",
   "node_id.266:2": "mouton",
   "node_id.266:3": "girafe",
-  "node_id.125:3": "lundi",
   "node_id.126:4": "mardi",
   "node_id.148:11": "suivant",
   "node_id.171:3": "HALLOWEEN",
   "node_id.144:2": "dimanche",
-  "node_id.203:6": "déclencheur"
+  "node_id.203:6": "déclencheur",
+  "node_id.148:9": "ou",
+  "node_id.125:3": "lundi",
+  "node_id.201:4": "envoyez les 123",
+  "node_id.205:11": "chat"
 }
