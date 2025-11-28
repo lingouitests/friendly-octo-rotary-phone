@@ -3,5 +3,7 @@
     "node_id.203:6": "trigger",
     "node_id.206:16": "newgamma",
     "node_id.308:128": "new string",
-    "node_id.181:2": "check"
+    "node_id.181:2": "check",
+    "node_id.118:13": "five",
+    "node_id.205:12": "dog"
 }
