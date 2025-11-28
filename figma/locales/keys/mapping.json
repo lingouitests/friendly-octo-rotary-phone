@@ -9,6 +9,11 @@
   "nodeID":"node_id.123:3",
   "lastChanged":1764339781
 },{
+  "key":"pref_newstrin_4",
+  "value":"new string",
+  "nodeID":"node_id.308:128",
+  "lastChanged":1764340084
+},{
   "key":"pref_newgamma_3",
   "value":"newgamma",
   "nodeID":"node_id.206:16",
